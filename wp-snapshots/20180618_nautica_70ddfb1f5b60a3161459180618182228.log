@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: June 18, 2018 6:22 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.40
+WORDPRESS:	4.8.6
+PHP INFO:	7.1.1 | SAPI: apache2handler
+SERVER:		Apache/2.4.25 (Win32) OpenSSL/1.0.2k PHP/7.1.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (512M default) 
+MEMORY STACK: 4MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20180618_nautica_70ddfb1f5b60a3161459180618182228_database.sql 
+SQL FILE SIZE: 384.11KB (393324) 
+SQL FILE TIME: 2018-06-18 18:22:37 
+SQL RUNTIME: 0.55 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/laragon/www/avotz/Nautica/wordpress 
+ARCHIVE FILE: 20180618_nautica_70ddfb1f5b60a3161459180618182228_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	0B 
+STATS:	Dirs 0 | Files 0 
+SQL ADDED: 20180618_nautica_70ddfb1f5b60a3161459180618182228_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => C:\laragon\www\avotz\Nautica\wordpress\wp-snapshots\tmp\20180618_nautica_70ddfb1f5b60a3161459180618182228_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 87.01KB 
+ARCHIVE RUNTIME: 0.10 sec. 
+MEMORY STACK: 4MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/laragon/www/avotz/Nautica/wordpress/wp-snapshots/tmp/20180618_nautica_70ddfb1f5b60a3161459180618182228_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 384.11KB 
+Installer File: 445.9KB 
+Archive File: 87.01KB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 1.47 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => 20180618_nautica June 18, 2018 6:22 pm
+ 
